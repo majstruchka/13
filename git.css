@@ -1,4 +1,5 @@
 
 footer{
     border: darkcyan 1px solid;
+    display: flex;
 }
